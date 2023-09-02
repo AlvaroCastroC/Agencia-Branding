@@ -1,0 +1,32 @@
+.secao-experiencia {
+    width: 100%;
+    background-color: #f6f8fc;
+}
+.experiencia-container {
+    text-align: center;
+    padding: 50px 20px;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+.experiencia-container h2 {
+    color: #32333c;
+    font-size: 30px; 
+}
+
+.experiencia-container h2::after {
+    content: '';
+    display: block;
+    background: #feb633;
+    margin: 20px auto 40px auto;
+    width: 140px;
+    height: 5px;
+
+}
+
+.experiencia-container p {
+    color: #8a8fa3;
+    max-width: 1024px;
+    font-size: 18px;
+}

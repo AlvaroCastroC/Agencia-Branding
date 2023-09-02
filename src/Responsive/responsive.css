@@ -1,0 +1,114 @@
+/* Responsividade para mobile */
+@media only screen and (min-width: 375px) and (max-width: 568px ) {
+    .container-limite {
+        max-width: 768px;
+    }
+
+    .banner img {
+        display: none;
+    }
+
+    .titulo-banner {
+        padding: 300px 20px;
+    }
+
+    .titulo-banner p {
+        font-size: 25px;
+    }
+
+    .titulo-banner h2 {
+        font-size: 50px;
+        font-weight: 500;
+    }
+
+
+    .experiencia-container h2 {
+        font-size: 40px; 
+    }
+
+    .experiencia-container p {
+        max-width: none;
+        font-size: 18px;
+    }
+
+    .card-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 60px;
+    }
+
+    .card {
+        width: 90%;
+        height: 400px;
+    }
+
+    .titulo-rodape p {
+        font-size: 18px;
+    }
+} 
+
+/* Responsividade tablet */
+
+@media only screen and (min-width: 569px) and (max-width: 1023px ) {
+    .container-limite {
+        max-width: 768px;
+    }
+
+    .banner img {
+        display: none;
+    }
+
+    .titulo-banner {
+        padding: 200px 20px;
+    }
+
+    .titulo-banner p {
+        font-size: 18px;
+    }
+
+    .titulo-banner h2 {
+        font-size: 45px;
+    }
+
+
+    .experiencia-container h2 {
+        font-size: 50px; 
+    }
+
+    .experiencia-container p {
+        max-width: none;
+        font-size: 15px;
+    }
+
+    .card-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 60px 0;
+    }
+
+    .card {
+        width: 90%;
+        height: 300px;
+       
+    }
+
+    
+    .card:hover {
+        background-color: transparent;
+    }
+
+    .titulo-rodape p {
+        font-size: 20px;
+    }
+
+    nav img {
+        width: 50px;
+    }
+    .rodape-ro {
+        font-size: 20px;
+    }
+} 

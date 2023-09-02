@@ -1,0 +1,37 @@
+.banner {
+    width: 100%;
+}
+
+.banner-container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.imagem-banner img {
+    width: 600px;
+}
+
+.titulo-banner {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 20px;
+    color: #022144;
+    background-color: #fafbfc;
+}
+
+.titulo-banner p {
+    font-size: 15px;
+    letter-spacing: 3px;
+}
+
+.titulo-banner h2 {
+    font-size: 35px;
+    font-weight: 600;
+    max-width: 500px; 
+}
+
+.titulo-banner span {
+    font-weight: bolder;
+}

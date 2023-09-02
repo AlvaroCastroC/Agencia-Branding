@@ -1,0 +1,39 @@
+.secao-card {
+    width: 100%;
+    background-color: #f6f8fc;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+}
+
+.card {
+    width: 300px;
+    height: 400px;
+    padding: 40px 20px;
+    border: 1px solid #d9dadf;
+}
+
+.card:hover {
+    background-color:  #feb633;
+    cursor: pointer;
+}
+
+.card p {
+    font-size: 18px;
+    color: hsl(228, 12%, 59%);
+    margin: 10px 0;
+}
+
+.card p:nth-child(-n + 3) {
+    text-transform: uppercase;
+}
+
+
+.card h4 {
+    font-size: 22px;
+    color: #32333c;
+}
