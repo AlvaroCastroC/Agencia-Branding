@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Agencia-Branding/static/css/main.fff16029.css",
-    "main.js": "/Agencia-Branding/static/js/main.50ed77c9.js",
+    "main.css": "/Agencia-Branding/static/css/main.47dabe4d.css",
+    "main.js": "/Agencia-Branding/static/js/main.df207a9b.js",
     "static/js/787.fa6cdc0e.chunk.js": "/Agencia-Branding/static/js/787.fa6cdc0e.chunk.js",
     "index.html": "/Agencia-Branding/index.html",
-    "main.fff16029.css.map": "/Agencia-Branding/static/css/main.fff16029.css.map",
-    "main.50ed77c9.js.map": "/Agencia-Branding/static/js/main.50ed77c9.js.map",
+    "main.47dabe4d.css.map": "/Agencia-Branding/static/css/main.47dabe4d.css.map",
+    "main.df207a9b.js.map": "/Agencia-Branding/static/js/main.df207a9b.js.map",
     "787.fa6cdc0e.chunk.js.map": "/Agencia-Branding/static/js/787.fa6cdc0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fff16029.css",
-    "static/js/main.50ed77c9.js"
+    "static/css/main.47dabe4d.css",
+    "static/js/main.df207a9b.js"
   ]
 }
