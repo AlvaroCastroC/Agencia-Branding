@@ -20,7 +20,7 @@ export default function Card () {
 
             <div className="card">
                 <p>Fevereiro 2019 - 2021</p>
-                <h4>Degital Consulting</h4>
+                <h4>Digital Consulting</h4>
                 <p>Arasaka Inc.</p>
                 <p>Consultoria em estratégias digitais para todas as etapas do ciclo do projeto, desde a definição inicial até a execução do plano de ação.</p>
             </div>
